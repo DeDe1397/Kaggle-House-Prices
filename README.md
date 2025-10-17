@@ -46,10 +46,13 @@ pip install -r requirements.txt
 - **Kaggle Public LB (Testデータ)**  
   - Score: **0.131**
 
-## 🚀 使い方
+## 使い方
 1. Kaggle から `train.csv` と `test.csv` をダウンロードして、このリポジトリ直下に配置
 2. 実行:
 
 ```bash
 jupyter notebook Final_Ensemble_Model.ipynb
 ```
+
+## Qiita記事
+https://qiita.com/c62323440/items/fd5f1f0bdf22490ba7c6
