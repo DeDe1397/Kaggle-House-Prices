@@ -7,6 +7,7 @@
 - **モデリング**: LightGBM・Ridge・Lasso を用いたアンサンブル
 - **成果**: CV RMSLE 0.113 / Kaggle LB 0.128 → 上位23%
 
+### トップ特徴量（例：OverallQual, GrLivArea…）
 ![SHAP値](https://github.com/DeDe1397/Kaggle-House-Prices/blob/main/Kaggle-House-Prices_SHAP.png)
 
 ## 環境
@@ -52,7 +53,7 @@ pip install -r requirements.txt
 2. 実行:
 
 ```bash
-jupyter notebook FFinal_Ensemble_Model.ipynb
+jupyter notebook Final_Ensemble_Model.ipynb
 ```
 
 ## Qiita記事
