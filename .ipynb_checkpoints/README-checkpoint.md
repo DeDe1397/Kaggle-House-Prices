@@ -7,7 +7,7 @@
 - **モデリング**: LightGBM・Ridge・Lasso を用いたアンサンブル
 - **成果**: CV RMSLE 0.113 / Kaggle LB 0.128 → 上位23%
 
-![SHAP値](http://localhost:8888/lab/tree/jupyterlab/House%20Prices/GitHub/Kaggle-House-Prices/Kaggle-House-Prices_SHAP.png)
+![SHAP値](https://github.com/DeDe1397/Kaggle-House-Prices/blob/main/Kaggle-House-Prices_SHAP.png)
 
 ## 環境
 - Python 3.12.7
