@@ -54,3 +54,6 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook Final_ensemble.ipynb
 ```
+
+## Qiita記事
+https://qiita.com/c62323440/items/fd5f1f0bdf22490ba7c6

@@ -45,12 +45,15 @@ pip install -r requirements.txt
   - **Ensemble RMSLE: 0.1130**
 - **Kaggle Public LB (Testデータ)**  
   - Score: **0.12843**
-（2025年9月26日時点で上位23％達成）
+（2025-09-26 / seed=42）
 
 ## 🚀 使い方
 1. Kaggle から `train.csv` と `test.csv` をダウンロードして、このリポジトリ直下に配置
 2. 実行:
 
 ```bash
-jupyter notebook Final_ensemble.ipynb
+jupyter notebook FFinal_Ensemble_Model.ipynb
 ```
+
+## Qiita記事
+https://qiita.com/c62323440/items/fd5f1f0bdf22490ba7c6
