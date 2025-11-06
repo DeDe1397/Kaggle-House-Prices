@@ -1,5 +1,5 @@
-住宅価格データKaggle「House Prices」を用いて回帰モデルを構築し、予測精度と特徴量の解釈を両立  
-- 欠損値補完、外れ値除去、特徴量エンジニアリング、複数モデルのアンサンブルを組み合わせて精度を改善。
+住宅価格データKaggle「House Prices」を用いて回帰モデルを構築し、特徴量の解釈・予測精度の向上
+- 欠損値補完、外れ値除去、特徴量エンジニアリング、複数モデルのアンサンブルを組み合わせて精度を改善
 
 ## このプロジェクトでできること
 - **住宅価格の精度予測**（Kaggle House Prices データセット）
@@ -18,6 +18,7 @@
 依存ライブラリは `requirements.txt` にまとめています。
 ```bash
 pip install -r requirements.txt
+```
 
 ## プロジェクト概要
 - **目的**: 住宅価格（SalePrice）の予測
@@ -52,3 +53,4 @@ pip install -r requirements.txt
 
 ```bash
 jupyter notebook Final_ensemble.ipynb
+```
